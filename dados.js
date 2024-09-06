@@ -1,7 +1,7 @@
 let dados = [
     {
         titulo : "Zakka",
-        descricao : "‘'A transcendência só é alcançada por aqueles que sentem o groove'’"+
+        descricao : "‘'A transcendência é alcançada por aqueles que sentem o groove'’"+
 
                         "Esta frase do talentoso produtor representa todos os elementos que ele coloca em suas músicas com a alma, que se misturam e transbordam em suas apresentações do House ao Techno." +
                         
