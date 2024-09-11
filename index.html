@@ -12,15 +12,15 @@
     <header><h1>Techno</h1></header> <!-- Cabeçalho --> <!-- tag "h1" deixa em negrito (título da página) -->
 
     <main> <!-- corpo -->   
-        <section>
-            <div class="resultados-pesquisa"> <!-- tag DIV serve para "separar os assuntos" dentro do código-->
-                <input type="text" placeholder="Digite o artista que deseja buscar">   <!-- campo de pesquisa -->
-                <button>Pesquisar</button> <!-- botão -->
-            </div>
+        
+        <section> <!-- a sessão separa os resultados da pesquisa (serve para separar os assuntos) -->
+            <input type="text" placeholder="Digite o artista que deseja buscar">   <!-- campo de pesquisa -->
+            <button onclick="pesquisar()">Pesquisar</button> <!-- botão -->
         </section>
-        <section class="resultados-pesquisa"
-            id="resultados-pesquisa">
-            <div class="item-resultado"> <!-- o class é para referenciar esse trecho no CSS-->
+
+        <section class="resultados-pesquisa" 
+            id="resultados-pesquisa"> <!-- o class acima é para referenciar esse trecho no CSS e o id é para referenciar no JavaScript-->
+            <div class="item-resultado"> <!-- tag DIV serve para "separar os assuntos" dentro do código-->
                 
            </div>       
         </section>

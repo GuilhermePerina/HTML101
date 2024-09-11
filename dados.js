@@ -11,7 +11,13 @@ let dados = [
     
     {
         titulo : "kink",
-        descricao : 'Strahil Velchev, better known by his artist name KiNK, is a Bulgarian producer, DJ and live performer.[1][2]. Velchev became interested in electronic music in the 1990s[3] and started making his own music a few years later.[4] In 2005, he released his track, "Same Old Thing", on vinyl.[5] He has worked with multiple record labels, including Ovum and Rush Hour.[6] In May 2014, his debut album Under Destruction was released with Macro.[6] His second album, Playground, was released with Running Back in November 2017.[7] In 2018, he launched his own label, named after his hometown Sofia.[8]',
+        descricao : ' Strahil Velchev, better known by his artist name KiNK, is a Bulgarian producer, DJ and live performer.[1][2]'+
+
+        'Velchev became interested in electronic music in the 1990s[3] and started making his own music a few years later.[4] In 2005, he released his track, "Same Old Thing", on vinyl.[5] He has worked with multiple record labels, including Ovum and Rush Hour.[6] In May 2014, his debut album Under Destruction was released with Macro.[6] His second album, Playground, was released with Running Back in November 2017.[7] In 2018, he launched his own label, named after his hometown Sofia.[8]\n'+
+        
+        'In his live performances, KiNK is known for improvisation and interaction with the audience.[4] According to a poll, Resident Advisor readers named him the Best Live Electronic Act of 2015[9] and 2016.[10] In 2018, MusicRadar named him the best live electronic act in the world.[11]\n'+
+        
+        'KiNK also releases music under the alias Kirilik[12] and with his partner Rachel Row.\n',
         link : "https://soundcloud.com/kink"
     },
     
@@ -28,26 +34,26 @@ let dados = [
                     "2016: Dj Mixes Single Tracks\n" +
                     "2020: Space Diver\n" +
                     "2020: Livestream Mix (Mixed)\n" +
-                    "2021: Never Stop Dancing",
+                    "2021: Never Stop Dancing\n",
         link: "https://soundcloud.com/boris-brejcha"
     },
     {
-        nome: "Adam Beyer",
+        titulo : "Adam Beyer",
         descricao: "DJ e produtor sueco, um dos pioneiros do techno sueco.",
         ultimosLancamentos: "Embrace, Transmit"
     },
     {
-        nome: "Nina Kraviz",
+        titulo : "Nina Kraviz",
         descricao: "DJ e produtora russa conhecida por seus sets energéticos e estilo techno experimental.",
         ultimosLancamentos: "Fabriclive 103, Nina Kraviz - Fabriclive 103"
     },
     {
-        nome: "Carl Cox",
+        titulo : "Carl Cox",
         descricao: "DJ e produtor inglês, uma das figuras mais influentes da história do techno.",
         ultimosLancamentos: "Hybrid, All Night Long"
     },
     {
-        nome: "Amelie Lens",
+        titulo : "Amelie Lens",
         descricao: "DJ e produtora belga conhecida por seu estilo techno duro e sets intensos.",
         ultimosLancamentos: "Exhale, Elements of Afterlife"
     }
