@@ -6,7 +6,8 @@ let dados = [
                         "Esta frase do talentoso produtor representa todos os elementos que ele coloca em suas músicas com a alma, que se misturam e transbordam em suas apresentações do House ao Techno." +
                         
                         "Seu estilo único cria uma atmosfera progressiva e dançante, e com mais de 15 anos de experiência, o produtor vem conquistando uma legião de fãs, e diversos lançamentos por selos nacionais e internacionais como 1103 Musik Berlin, Do It Again, Scrambled Recordings, Loud Shout Music, Phantacid, Keep In Touch, Grooveseed, Thestroy e Bluma Records.",
-        link : "https://soundcloud.com/zakka_music"
+        link : "https://soundcloud.com/zakka_music",
+        tags: "zaka zakarov zaaka zakka"
     },
     
     {
@@ -18,7 +19,8 @@ let dados = [
         'In his live performances, KiNK is known for improvisation and interaction with the audience.[4] According to a poll, Resident Advisor readers named him the Best Live Electronic Act of 2015[9] and 2016.[10] In 2018, MusicRadar named him the best live electronic act in the world.[11]\n'+
         
         'KiNK also releases music under the alias Kirilik[12] and with his partner Rachel Row.\n',
-        link : "https://soundcloud.com/kink"
+        link : "https://soundcloud.com/kink",
+        tags: "kinki kiink"
     },
     
     {
@@ -35,26 +37,31 @@ let dados = [
                     "2020: Space Diver\n" +
                     "2020: Livestream Mix (Mixed)\n" +
                     "2021: Never Stop Dancing\n",
-        link: "https://soundcloud.com/boris-brejcha"
+        link: "https://soundcloud.com/boris-brejcha",
+        tags: "bóris breja"
     },
     {
         titulo : "Adam Beyer",
         descricao: "DJ e produtor sueco, um dos pioneiros do techno sueco.",
-        ultimosLancamentos: "Embrace, Transmit"
+        ultimosLancamentos: "Embrace, Transmit",
+        tags: "adan baier"
     },
     {
         titulo : "Nina Kraviz",
         descricao: "DJ e produtora russa conhecida por seus sets energéticos e estilo techno experimental.",
-        ultimosLancamentos: "Fabriclive 103, Nina Kraviz - Fabriclive 103"
+        ultimosLancamentos: "Fabriclive 103, Nina Kraviz - Fabriclive 103",
+        tags: "niina kaviz kravitz kravis"
     },
     {
         titulo : "Carl Cox",
         descricao: "DJ e produtor inglês, uma das figuras mais influentes da história do techno.",
-        ultimosLancamentos: "Hybrid, All Night Long"
+        ultimosLancamentos: "Hybrid, All Night Long",
+        tags: "car"
     },
     {
         titulo : "Amelie Lens",
         descricao: "DJ e produtora belga conhecida por seu estilo techno duro e sets intensos.",
-        ultimosLancamentos: "Exhale, Elements of Afterlife"
+        ultimosLancamentos: "Exhale, Elements of Afterlife",
+        tags: "amili le"
     }
 ];
